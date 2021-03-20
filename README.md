@@ -211,4 +211,4 @@ const ProductSchema = new Schema(
 
 #### Database
 
-[Xem video này](https://youtu.be/H3i5X_7muwk)
+[Xem video này](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
