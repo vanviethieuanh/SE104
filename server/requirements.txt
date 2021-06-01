@@ -1,0 +1,8 @@
+Django
+djangorestframework
+django-filter
+djangorestframework-simplejwt
+django-cors-headers
+uWSGI
+argon2
+django[argon2]
