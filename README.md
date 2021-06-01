@@ -13,4 +13,8 @@
 
 ## Architecture
 
-![SE104](https://user-images.githubusercontent.com/29355962/120161173-398a3400-c221-11eb-9d0b-9ae892a134a4.png)
+### System Design
+![System Design](https://user-images.githubusercontent.com/29355962/120161173-398a3400-c221-11eb-9d0b-9ae892a134a4.png)
+
+### Data Structures
+![Design-Data Structures](https://user-images.githubusercontent.com/29355962/120319970-d0331f80-c30b-11eb-9668-0373119fc292.png)
