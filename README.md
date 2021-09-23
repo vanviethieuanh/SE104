@@ -3,6 +3,8 @@
 
 **Requirement**: Create a Hotel management software
 
+**Finnal Score**: 9/10
+
 ## Members
 1. 19521225 - Văn Viết Hiếu Anh
 2. 19522206 - Nguyễn Đức Thắng
